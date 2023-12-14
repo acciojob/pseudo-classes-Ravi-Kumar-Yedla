@@ -1,1 +1,34 @@
 /*  your css code here. If applicable */
+
+.Hello-accio:first-of-type{
+	color:white;
+	background:black;
+/* 	margin:0px;
+	padding:0px; */
+}
+ .Hello-accio:nth-of-type(2){
+	color:inherit;
+}
+ .Hello-accio:last-of-type{
+	color:red;
+}
+
+ :root {
+      background-color: rgb(135, 206, 235);
+    }
+
+
+ul{
+	width:50%;
+	padding:10px;
+	font-size:22px;
+}
+.hello{
+	background-color:white;
+}
+.hi{
+	background-color:grey;
+}
+#ravi{
+	background:pink;
+}
